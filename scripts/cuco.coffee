@@ -2,8 +2,8 @@
 # 
 
 nicknames = [
-  "Kukalimba!"
-	"CUCOOOOH"
+  "Kukalimba! Kukalimba!"
+	"CUCOOOOHHHHH"
 	"Poooommel"
 	"popopopopopoPOmmellll"
 	"hojos"
