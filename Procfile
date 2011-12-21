@@ -1,1 +1,1 @@
-app: bin/hubot -a campfire -n hubot
+app: bin/hubot -a campfire -n invader
